@@ -1,7 +1,7 @@
 Test WebApp
 -----------
 
-This is just a test webapp. 
+This is just a test webapp which you can deploy to a container.
 
 Building
 --------
