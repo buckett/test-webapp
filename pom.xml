@@ -7,9 +7,9 @@
   <name>test-webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
-    <connection>scm:git:git@github.com:buckett/test-webapp.git</connection>
-    <url>scm:git:git@github.com:buckett/test-webapp.git</url>
-    <developerConnection>scm:git:git@github.com:buckett/test-webapp.git</developerConnection>
+    <connection>scm:git:git@github.com:buckett/${project.artifactId}.git</connection>
+    <url>scm:git:git@github.com:buckett/${project.artifactId}.git</url>
+    <developerConnection>scm:git:git@github.com:buckett/${project.artifactId}.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
   <dependencies>
